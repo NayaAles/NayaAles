@@ -4,6 +4,5 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayaales&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nayaales&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nayaales&theme=github_dark&utcOffset=8)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NayaAles&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NayaAles&theme=github_dark)
 </h3>
